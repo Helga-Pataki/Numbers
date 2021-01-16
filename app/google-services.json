@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329090325893",
+    "project_id": "funnynumberes",
+    "storage_bucket": "funnynumberes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329090325893:android:59fe5c8e6deb58655d78ec",
+        "android_client_info": {
+          "package_name": "Funny.Numbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329090325893-d8ul7tctfbqictjnbd7u15cmhvg5093v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDVhiPO6c6hRA1KVN3t1xcBfEvlrp7YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329090325893-d8ul7tctfbqictjnbd7u15cmhvg5093v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

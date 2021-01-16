@@ -1,0 +1,17 @@
+<animation-list
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:oneshot="true">
+<item android:drawable="@drawable/ic_num_4_1_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_2_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_3_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_4_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_5_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_6_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_7_v" android:duration="180"/>
+<item android:drawable="@drawable/ic_num_4_6_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_5_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_4_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_3_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_2_v" android:duration="60"/>
+<item android:drawable="@drawable/ic_num_4_1_v" android:duration="60"/>
+</animation-list>
